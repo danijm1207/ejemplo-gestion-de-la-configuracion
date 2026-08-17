@@ -1,2 +1,3 @@
 Contenido inicial de archivo 1
 Edicion remota de archivo1.txt desde GitHub
+Resolucion de conflictos entre el local y el remoto en archivo1.txt
